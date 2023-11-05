@@ -1,0 +1,1 @@
+export const nakuriurl = "https://www.naukri.com/";
